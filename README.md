@@ -1,2 +1,2 @@
-# RebornRec
-Contains data for the rebornrec server to download at times and stuff
+# RockRoom
+Contains data for the rockroom server to download at times and stuff
