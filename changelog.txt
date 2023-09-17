@@ -1,3 +1,2 @@
-Rock Room Dev Build 1
-
-Hi biscuit boy!
+Rock Room 0.4.15
+Public Branch (aquad removed, motd changed)
