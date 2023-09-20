@@ -1,2 +1,6 @@
-Rock Room 0.4.15
-Public Branch (aquad removed, motd changed)
+Rock Room 1.1
+All traces of reborn have been removed (i think)
+New slogan, new build. Find it in #build-downloads!
+
+Rock Room
+By the people, for the people!
